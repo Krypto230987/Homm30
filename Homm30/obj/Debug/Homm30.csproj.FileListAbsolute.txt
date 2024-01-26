@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Homm30\Homm30\bin\Debug\Homm30.exe.config
+C:\Users\User\source\repos\Homm30\Homm30\bin\Debug\Homm30.exe
+C:\Users\User\source\repos\Homm30\Homm30\bin\Debug\Homm30.pdb
+C:\Users\User\source\repos\Homm30\Homm30\obj\Debug\Homm30.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Homm30\Homm30\obj\Debug\Homm30.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Homm30\Homm30\obj\Debug\Homm30.exe
+C:\Users\User\source\repos\Homm30\Homm30\obj\Debug\Homm30.pdb
